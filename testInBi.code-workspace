@@ -14,17 +14,17 @@
 		"python.testing.pytestEnabled": true,
 		"python.testing.unittestEnabled": true,
 		"python.testing.pytestArgs": [
-			"src/test/java/testInBi"
+			"src/test/java/practice"
 		],
 		"python.testing.unittestArgs": [
 			"-v",
 			"-s",
-			"./src/test/java/testInBi",
+			"./src/test/java/practice",
 			"-p",
 			"test_*.py"
 		],
 		"python.testing.nosetestArgs": [
-			"src/test/java/testInBi"
+			"src/test/java/practice"
 		],
 		"java.configuration.updateBuildConfiguration": "automatic",
 		"editor.tokenColorCustomizations": {
