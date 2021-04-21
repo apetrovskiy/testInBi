@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 4,
+  "reportUrl" : "https://apetrovskiy.github.io/testInBi/4/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 3,
   "reportUrl" : "https://apetrovskiy.github.io/testInBi/3/",
   "reportName" : "Allure Report with history",
