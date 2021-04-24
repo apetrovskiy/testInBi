@@ -17,5 +17,6 @@
         "src/test/java"
     ],
     "rubyTestExplorer.minitestDirectory": "./src/test/java/",
-    "rubyTestExplorer.rspecDirectory": "./src/test/java/"
+    "rubyTestExplorer.rspecDirectory": "./src/test/java/",
+    "python.pythonPath": "C:\\Users\\Alexander Petrovskiy\\.virtualenvs\\testInBi-U4-KjScV\\Scripts\\python.exe"
 }
