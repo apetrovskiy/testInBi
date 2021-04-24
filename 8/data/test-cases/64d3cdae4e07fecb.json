@@ -1,0 +1,62 @@
+{
+  "uid" : "64d3cdae4e07fecb",
+  "name" : "test_solution_min_steps_in_grid[input_x0-input_y0-0]",
+  "fullName" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution#test_solution_min_steps_in_grid",
+  "historyId" : "d57aa35fe4b94e4a168ba1cd05325188",
+  "time" : {
+    "start" : 1619290908864,
+    "stop" : 1619290908864,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid"
+  }, {
+    "name" : "suite",
+    "value" : "test_solution"
+  }, {
+    "name" : "host",
+    "value" : "fv-az129-107"
+  }, {
+    "name" : "thread",
+    "value" : "1871-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "0"
+  }, {
+    "name" : "input_x",
+    "value" : "[-2]"
+  }, {
+    "name" : "input_y",
+    "value" : "[7]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64d3cdae4e07fecb.json",
+  "parameterValues" : [ "0", "[-2]", "[7]" ]
+}
