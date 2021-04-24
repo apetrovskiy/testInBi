@@ -1,26 +1,3 @@
 [ {
-  "buildOrder" : 5,
-  "reportUrl" : "https://apetrovskiy.github.io/testInBi/5/",
-  "reportName" : "Allure Report with history",
-  "data" : { }
-}, {
-  "buildOrder" : 4,
-  "reportUrl" : "https://apetrovskiy.github.io/testInBi/4/",
-  "reportName" : "Allure Report with history",
-  "data" : { }
-}, {
-  "buildOrder" : 3,
-  "reportUrl" : "https://apetrovskiy.github.io/testInBi/3/",
-  "reportName" : "Allure Report with history",
-  "data" : { }
-}, {
-  "buildOrder" : 2,
-  "reportUrl" : "https://apetrovskiy.github.io/testInBi/2/",
-  "reportName" : "Allure Report with history",
-  "data" : { }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://apetrovskiy.github.io/testInBi/1/",
-  "reportName" : "Allure Report with history",
   "data" : { }
 } ]
