@@ -319,6 +319,7 @@ jobs:
 
   swift:
     runs-on: macos-latest
+    needs: build
 
     steps:
     - uses: actions/checkout@v2
