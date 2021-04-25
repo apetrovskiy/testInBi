@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "test_solution_min_steps_in_grid[input_x0-input_y0-0]",
+    "uid" : "f9c7a60e316b1fb0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619381081495,
+      "stop" : 1619381081496,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "0", "[-2]", "[7]" ]
+  }, {
+    "name" : "test_solution_min_steps_in_grid[input_x1-input_y1-6]",
+    "uid" : "fccf1af615fd3f43",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619381081499,
+      "stop" : 1619381081499,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "6", "[-7, -13]", "[1, -5]" ]
+  }, {
+    "name" : "test_solution_min_steps_in_grid[input_x2-input_y2-108]",
+    "uid" : "f313587114c31247",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619381081502,
+      "stop" : 1619381081502,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "108", "[4, 8, -7, -5, -13, 9, -7, 8]", "[4, -15, -10, -3, -13, 12, 8, -8]" ]
+  } ],
+  "name" : "behaviors"
+}
