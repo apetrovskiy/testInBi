@@ -1,0 +1,154 @@
+{
+  "uid" : "97e22dfadacd5daf",
+  "name" : "test_solution_min_steps_in_grid[input_x2-input_y2-108]",
+  "fullName" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution#test_solution_min_steps_in_grid",
+  "historyId" : "4e8bb645396d2038702bce8986d1564b",
+  "time" : {
+    "start" : 1620336459089,
+    "stop" : 1620336459090,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid"
+  }, {
+    "name" : "suite",
+    "value" : "test_solution"
+  }, {
+    "name" : "host",
+    "value" : "fv-az272-60"
+  }, {
+    "name" : "thread",
+    "value" : "2377-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "108"
+  }, {
+    "name" : "input_x",
+    "value" : "[4, 8, -7, -5, -13, 9, -7, 8]"
+  }, {
+    "name" : "input_y",
+    "value" : "[4, -15, -10, -3, -13, 12, 8, -8]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "a7ee54c8a8cdd1bb",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/16//#testresult/a7ee54c8a8cdd1bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619848811309,
+          "stop" : 1619848811309,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b68df76f9ff56d0d",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/15//#testresult/b68df76f9ff56d0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619385807723,
+          "stop" : 1619385807723,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d44fbfbcb725dc3d",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/14//#testresult/d44fbfbcb725dc3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619382995500,
+          "stop" : 1619382995500,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "72ffd396ba96112e",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/13//#testresult/72ffd396ba96112e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619381813374,
+          "stop" : 1619381813374,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ec24ad97c755f9b1",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/12//#testresult/ec24ad97c755f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619381480658,
+          "stop" : 1619381480658,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a9d025687f5cbb60",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/11//#testresult/a9d025687f5cbb60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619381427029,
+          "stop" : 1619381427030,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "6c9a87f5826dbc78",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/10//#testresult/6c9a87f5826dbc78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619381343516,
+          "stop" : 1619381343516,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f313587114c31247",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/9//#testresult/f313587114c31247",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619381081502,
+          "stop" : 1619381081502,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d63fe1675f0873d2",
+        "reportUrl" : "https://apetrovskiy.github.io/testInBi/8//#testresult/d63fe1675f0873d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619290908871,
+          "stop" : 1619290908871,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "97e22dfadacd5daf.json",
+  "parameterValues" : [ "108", "[4, 8, -7, -5, -13, 9, -7, 8]", "[4, -15, -10, -3, -13, 12, 8, -8]" ]
+}
