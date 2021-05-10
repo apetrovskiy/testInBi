@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution",
+    "children" : [ {
+      "name" : "test_solution_min_steps_in_grid[input_x0-input_y0-0]",
+      "uid" : "97aab564a9cf63de",
+      "parentUid" : "3ac4fe2f858d6e63a274b47b2811456c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620662145517,
+        "stop" : 1620662145517,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "[-2]", "[7]" ]
+    }, {
+      "name" : "test_solution_min_steps_in_grid[input_x1-input_y1-6]",
+      "uid" : "9734a9cad8712d66",
+      "parentUid" : "3ac4fe2f858d6e63a274b47b2811456c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620662145521,
+        "stop" : 1620662145521,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "6", "[-7, -13]", "[1, -5]" ]
+    }, {
+      "name" : "test_solution_min_steps_in_grid[input_x2-input_y2-108]",
+      "uid" : "3c0a2a80067f3763",
+      "parentUid" : "3ac4fe2f858d6e63a274b47b2811456c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620662145524,
+        "stop" : 1620662145524,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "108", "[4, 8, -7, -5, -13, 9, -7, 8]", "[4, -15, -10, -3, -13, 12, 8, -8]" ]
+    } ],
+    "uid" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid.test_solution"
+  } ],
+  "name" : "packages"
+}

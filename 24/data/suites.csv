@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 10 15:55:45 GMT 2021","Mon May 10 15:55:45 GMT 2021","0","src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid","test_solution","","","","test_solution_min_steps_in_grid[input_x1-input_y1-6]",""
+"passed","Mon May 10 15:55:45 GMT 2021","Mon May 10 15:55:45 GMT 2021","0","src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid","test_solution","","","","test_solution_min_steps_in_grid[input_x0-input_y0-0]",""
+"passed","Mon May 10 15:55:45 GMT 2021","Mon May 10 15:55:45 GMT 2021","0","src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid","test_solution","","","","test_solution_min_steps_in_grid[input_x2-input_y2-108]",""

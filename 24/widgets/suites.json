@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "4ddf6ee576ecf933a12a262ae04da93d",
+    "name" : "src.test.java.practice.level01.arrays.MinStepsInInfiniteGrid",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}
