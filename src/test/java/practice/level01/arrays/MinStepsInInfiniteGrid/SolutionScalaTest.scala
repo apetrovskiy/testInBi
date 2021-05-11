@@ -7,10 +7,10 @@ import prop.TableDrivenPropertyChecks._
 import prop.TableDrivenPropertyChecks.Table
 
 class SolutionScalaTest
-     extends propspec.AnyPropSpec
+    extends propspec.AnyPropSpec
     with TableDrivenPropertyChecks
     with should.Matchers
-with GivenWhenThen{
+    with GivenWhenThen {
   val inputData = Table // [Array[Int],Array[Int],Int]
   (
     (Array[Int](-2), Array[Int](7), 0),
@@ -22,13 +22,13 @@ with GivenWhenThen{
     )
   )
 
-   // property("data") {
-    /*forAll(inputData)
+  // property("data") {
+  /*forAll(inputData)
     {  (firstArray:Array[Int], secondArray:Array[Int], expectedResult:Int) =>
       new SolutionScala().coverPoints(
          firstArray,
          secondArray
       ) should be === expectedResult
     }*/
-   // }
+  // }
 }
