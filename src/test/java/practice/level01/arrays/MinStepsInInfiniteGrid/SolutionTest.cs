@@ -1,4 +1,4 @@
-namespace practice.level01.MinStepsInInfiniteGrid
+namespace practice.level01.arrays.MinStepsInInfiniteGrid
 {
     using System;
     using System.Linq;

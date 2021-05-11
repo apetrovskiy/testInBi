@@ -191,10 +191,21 @@ dependencies {
 
     // Use Scalatest for testing our library
     // testImplementation("junit:junit:4.12")
+    testImplementation("org.scalactic:scalactic_2.13:${Version.SCALA_TEST.id}")
     testImplementation("org.scalatest:scalatest_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-core_2.13:${Version.SCALA_TEST.id}")
     testImplementation("org.scalatestplus:junit-4-12_2.13:${Version.SCALA_TEST_PLUS.id}")
+    testImplementation("org.scalatest:scalatest-flatspec_2.13:${Version.SCALA_TEST.id}")
     testImplementation("org.scalatest:scalatest-freespec_2.13:${Version.SCALA_TEST.id}")
     testImplementation("org.scalatest:scalatest-funsuite_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-propspec_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-wordspec_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-mustmatchers_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-matchers-core_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-compatible:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-featurespec_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-refspec_2.13:${Version.SCALA_TEST.id}")
+    testImplementation("org.scalatest:scalatest-app_2.13:${Version.SCALA_TEST.id}")
 
     // Need scala-xml at test runtime
     testRuntimeOnly("org.scala-lang.modules:scala-xml_2.13:1.2.0")
@@ -300,7 +311,7 @@ enum class Version(val id: String) {
     JUNIT_PLATFORM("1.7.1"),
     JUNIT4("4.13.2"),
     SCALA("2.13.5"),
-    SCALA_TEST("3.2.0"),
+    SCALA_TEST("3.2.8"),
     SCALA_TEST_PLUS("3.2.0.0"),
     JACKSON("2.12.2"),
     SNAKEYAML("1.28"),
