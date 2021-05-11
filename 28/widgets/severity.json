@@ -1,0 +1,31 @@
+[ {
+  "uid" : "da91f11cdabcc744",
+  "name" : "test_solution_min_steps_in_grid[input_x2-input_y2-108]",
+  "time" : {
+    "start" : 1620745752092,
+    "stop" : 1620745752092,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a9fe1e7583b291",
+  "name" : "test_solution_min_steps_in_grid[input_x1-input_y1-6]",
+  "time" : {
+    "start" : 1620745752090,
+    "stop" : 1620745752090,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab5476a604a80b2c",
+  "name" : "test_solution_min_steps_in_grid[input_x0-input_y0-0]",
+  "time" : {
+    "start" : 1620745752087,
+    "stop" : 1620745752087,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
