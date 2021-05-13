@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az182-243",
+    "children" : [ {
+      "name" : "1787-MainThread",
+      "children" : [ {
+        "name" : "test_solution_min_steps_in_grid[input_x2-input_y2-108]",
+        "uid" : "f0a600f7e8b08c1f",
+        "parentUid" : "0212a46817d048608dce981394ce9c4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620935602416,
+          "stop" : 1620935602417,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "108", "[4, 8, -7, -5, -13, 9, -7, 8]", "[4, -15, -10, -3, -13, 12, 8, -8]" ]
+      }, {
+        "name" : "test_solution_min_steps_in_grid[input_x0-input_y0-0]",
+        "uid" : "57abcea907b12d83",
+        "parentUid" : "0212a46817d048608dce981394ce9c4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620935602409,
+          "stop" : 1620935602409,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "0", "[-2]", "[7]" ]
+      }, {
+        "name" : "test_solution_min_steps_in_grid[input_x1-input_y1-6]",
+        "uid" : "3c8a96308a93f939",
+        "parentUid" : "0212a46817d048608dce981394ce9c4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620935602414,
+          "stop" : 1620935602414,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "6", "[-7, -13]", "[1, -5]" ]
+      } ],
+      "uid" : "0212a46817d048608dce981394ce9c4a"
+    } ],
+    "uid" : "471c7d2c9d9d4ed0bf7a7f81a7828f7b"
+  } ],
+  "name" : "timeline"
+}
